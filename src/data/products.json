@@ -24,7 +24,7 @@
       "name": "Colostrum", 
       "price": 65000, 
       "id": 4, 
-      "image": "/products/colostro.webp",
+      "image": "/products/colosturm.webp",
       "categoryId": 2
     },
     {   
@@ -45,7 +45,7 @@
       "name": "My Vitamin",
       "price": 57300, 
       "id": 7,
-      "image": "/products/vitamin.webp",
+      "image": "/products/vitamin.jpg",
       "categoryId": 6
     }               
   ]
