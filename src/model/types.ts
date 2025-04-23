@@ -4,6 +4,7 @@ export interface Product {
     id: number;
     image: string;
     categoryId: number;
+    description?: string;
 }
 
 export interface CartDetail {
