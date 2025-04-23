@@ -1,0 +1,25 @@
+[{
+    "id": 1,
+    "name": "Collagens",
+    "description": "Discover our variety of collagens such as hydrolyzed and types 1, 2, and 3"
+}, {
+    "id": 2,
+    "name": "Immunity",
+    "description": "Discover our range of products to boost your immune system and stay healthy"
+}, {
+    "id": 3,
+    "name": "Sports",
+    "description": "Discover our variety of sports supplements and start performing at your best"
+}, {
+    "id": 4,
+    "name": "Cardiovascular",
+    "description": "Discover our range of products for heart health"
+}, {
+    "id": 5,
+    "name": "Antioxidant",
+    "description": "Discover our range of products to neutralize free radicals and slow down cellular damage"
+}, {
+    "id": 6,
+    "name": "Vitamins",
+    "description": "Discover our variety of vitamins tailored to your needs"
+}]

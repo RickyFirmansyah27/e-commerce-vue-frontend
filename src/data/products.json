@@ -1,0 +1,51 @@
+[
+    {   
+      "name": "Collagen", 
+      "price": 75000, 
+      "id": 1, 
+      "image": "/products/colageno.png",
+      "categoryId": 1
+    },
+    {   
+      "name": "Protein",
+      "price": 160000, 
+      "id": 2, 
+      "image": "/products/proteina.webp",
+      "categoryId": 3
+    },
+    {   
+      "name": "Calcium", 
+      "price": 57000, 
+      "id": 3, 
+      "image": "/products/calcio.webp",
+      "categoryId": 1
+    },
+    {   
+      "name": "Colostrum", 
+      "price": 65000, 
+      "id": 4, 
+      "image": "/products/calostro.webp",
+      "categoryId": 2
+    },
+    {   
+      "name": "Green Tea",
+      "price": 32000, 
+      "id": 5, 
+      "image": "/products/TeVerde.webp",
+      "categoryId": 5
+    }, 
+    {   
+      "name": "Omega 3",
+      "price": 52500, 
+      "id": 6, 
+      "image": "/products/omega.webp",
+      "categoryId": 4
+    },   
+    {   
+      "name": "My Vitamin",
+      "price": 57300, 
+      "id": 7,
+      "categoryId": 6
+    }               
+  ]
+  
