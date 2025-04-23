@@ -3,14 +3,14 @@
       "name": "Collagen", 
       "price": 75000, 
       "id": 1, 
-      "image": "/products/colageno.png",
+      "image": "/products/colagen.png",
       "categoryId": 1
     },
     {   
       "name": "Protein",
       "price": 160000, 
       "id": 2, 
-      "image": "/products/proteina.webp",
+      "image": "/products/protein.webp",
       "categoryId": 3
     },
     {   
@@ -24,14 +24,14 @@
       "name": "Colostrum", 
       "price": 65000, 
       "id": 4, 
-      "image": "/products/calostro.webp",
+      "image": "/products/colostro.webp",
       "categoryId": 2
     },
     {   
       "name": "Green Tea",
       "price": 32000, 
       "id": 5, 
-      "image": "/products/TeVerde.webp",
+      "image": "/products/goslimTea.webp",
       "categoryId": 5
     }, 
     {   
@@ -45,6 +45,7 @@
       "name": "My Vitamin",
       "price": 57300, 
       "id": 7,
+      "image": "/products/vitamin.webp",
       "categoryId": 6
     }               
   ]
